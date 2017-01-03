@@ -1,0 +1,7 @@
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\eXia_sln_WS2\CAD\bin\Debug\DB_A2_WS2.mdf
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\eXia_sln_WS2\CAD\bin\Debug\DB_A2_WS2_log.ldf
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\eXia_sln_WS2\CAD\bin\Debug\CAD.dll
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\eXia_sln_WS2\CAD\bin\Debug\CAD.pdb
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\eXia_sln_WS2\CAD\obj\Debug\CAD.csprojResolveAssemblyReference.cache
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\eXia_sln_WS2\CAD\obj\Debug\CAD.dll
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\eXia_sln_WS2\CAD\obj\Debug\CAD.pdb
